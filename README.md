@@ -26,6 +26,22 @@ customers in their system and how their ordering behaviors differ.For example:
      - Is there a connection between age and family status in terms of ordering habits?</li>
      - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?</li>
      - What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
-
+### Data Source
+The project utilizes open-source datasets sourced from Instacart, supplemented by custom-made customer datasets. These assets play a crucial role in tackling the specified business inquiries.
+### Tools
+- The data was analyzed using Python and the following supporting libraries:
+   -  Pandas: for data analysis
+   - Numpy: for mathematical equations
+   - Seaborn: for data visualizations
+   - Matplotlib: for data visualizations
+   - SciPy: for mathematical equations
+### Project Deliverables
+- The project files are stored in following folder structure:
+   - 01 Project Management: Project brief
+   - 02 Data: The files are organized into two subfolders: "Original Data," which holds the initial data frames, and "Prepared Data," containing the data frames after 
+undergoing cleaning and preparation for analysis. Please note that the data files are not uploaded to GitHub due to size constraints.
+   - 03 Scripts: Jupyter notebooks containing coding for the analysis.
+   - 04 Analysis: The Visualizations subfolder houses the visuals utilized for developing and elucidating insights
+   - 05 Sent to Client: The final report presented in Excel
 
  
